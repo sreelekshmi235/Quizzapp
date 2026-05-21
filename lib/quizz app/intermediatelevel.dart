@@ -53,8 +53,7 @@ class _BeginnerLevelState extends State<quizIntermeediatelevel> {
       "options": ["brain","liver",'heart',"kidney"],
       "answer": "heart"
     },
-
-
+    
   ];
  @override
   void initState() {
